@@ -1,2 +1,5 @@
 *~
 *.fasl
+
+#Mac
+.DS_Store
